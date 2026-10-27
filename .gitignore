@@ -18,3 +18,5 @@ prettier.config.js
 **/Práctica_7/
 **/Práctica_9/
 **/Proyecto/
+build/
+target/
