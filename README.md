@@ -13,3 +13,5 @@
 **Brigada:** 6  
 
 Link a archivo LaTeX ``
+
+Link a video `https://www.youtube.com/watch?v=qrNdgYTGjyI`
